@@ -2,7 +2,6 @@
 <html>
 
 <head>
-	<title>README.MD</title>
 	<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 	<link rel="stylesheet" type="text/css" href="readme/css/style.css">
 	<link rel="stylesheet" type="text/css" href="readme/css/style-readme.css">
