@@ -28,7 +28,7 @@
 * Registro.
 * Contacto.
 
-![](readme/images/1646856530612.png)
+![](<img src="readme/images/1646856530612.png" id="img-width" alt="">)
 
 ### Ingreso.
 
