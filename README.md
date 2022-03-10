@@ -35,24 +35,24 @@ Por último eliminar registros, d por Delete, que significa tomar un registro y 
 * Registro.
 * Contacto.
 
-![Inicio](readme/images/1646856530612.png)
+![Inicio](readme/images/1646856530612.png {width=80%})
 
 ### Ingreso.
 
 * Si tienes cuenta puedes ingresar.
 * Si creas la cuenta tendras el control de la tabla **usuarios.**
 
-![](readme/images/1646856600559.png)
+![Ingreso](readme/images/1646856600559.png)
 
 ### Registro.
 
 * Crea tu cuenta y podras agregar, editar y borrar **usuarios.**
 
-![](readme/images/1646856641496.png)
+![Registro](readme/images/1646856641496.png)
 
 ### Contacto.
 
-![](readme/images/1646856719951.png)
+![Contacto](readme/images/1646856719951.png)
 
 ## Vistas como Administrador.
 
@@ -61,7 +61,7 @@ Por último eliminar registros, d por Delete, que significa tomar un registro y 
 
 ### Tabla Usuarios.
 
-![](readme/images/1646857015167.png)
+![Usuarios](readme/images/1646857015167.png)
 
 ## Vista como Super Administrador.
 
@@ -73,18 +73,18 @@ Por último eliminar registros, d por Delete, que significa tomar un registro y 
 * Son los uaurios que agregan los **administradores.**
 * Los **administradores** son los usuarios que se registran.
 
-![](readme/images/1646857124686.png)
+![Usuarios](readme/images/1646857124686.png)
 
 ### Tabla Administradores.
 
 * Son los usuarios que se registran.
 * Los usuarios que se registran tienen el rol de **administradores,** los cuales puedes ver en la tabla administradores.
 
-![](readme/images/1646857151787.png)
+![Administrador](readme/images/1646857151787.png)
 
 ## Cuenta Super Administrador
 
-![](readme/images/1646858032247.png)
+![Super Administrador](readme/images/1646858032247.png)
 
 ### Super Administrador.
 
