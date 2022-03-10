@@ -11,7 +11,7 @@ Por último eliminar registros, d por Delete, que significa tomar un registro y 
 
 ### Super Administrador.
 
-* Tiene todo el control de la **tabla usuarios.**
+* Tiene el control de la **tabla usuarios.**
 * Tiene el control de los **administradores.**
 
 ### Administrador.
