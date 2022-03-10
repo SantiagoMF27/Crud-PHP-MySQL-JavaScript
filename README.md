@@ -35,7 +35,7 @@ Por último eliminar registros, d por Delete, que significa tomar un registro y 
 * Registro.
 * Contacto.
 
-![Inicio](readme/images/1646856530612.png)[{max-width:80%}]
+![Inicio](readme/images/1646856530612.png){:width="80%"}.
 
 ### Ingreso.
 
